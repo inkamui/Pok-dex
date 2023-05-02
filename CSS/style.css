@@ -1,10 +1,10 @@
-@import url('https://fonts.googleleapis.com/css2?fsmily=Oxanium:wght@300;400;500;600;700;800&display=swap');
+@import url("https://fonts.googleleapis.com/css2?fsmily=Oxanium:wght@300;400;500;600;700;800&display=swap");
 
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: 'Oxanium', cursive;
+    font-family: "Oxanium", cursive;
 }
 
 body {
@@ -13,8 +13,8 @@ body {
     min-height: 100vh;
 }
 
-main{
-    display:  inline-block;
+main {
+    display: inline-block;
     margin-top: 2%;
     padding: 15px;
 }
