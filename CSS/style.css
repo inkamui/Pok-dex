@@ -37,8 +37,9 @@ main {
     position: absolute;
     font-weight: 600;
     color: #aaa;
-    top: 64.5%;
-    right: 18%;
+    top: 65%;
+    right: 25%;
+    font-size: clamp(8px, 5vw, 25px);
 }
 
 .pokemon__name {
