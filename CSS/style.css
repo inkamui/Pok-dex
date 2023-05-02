@@ -1,4 +1,4 @@
-@import url("https://fonts.googleleapis.com/css2?fsmily=Oxanium:wght@300;400;500;600;700;800&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Oxanium:wght@300;400;500;600;700;800&display=swap");
 
 * {
     margin: 0;
@@ -27,6 +27,21 @@ main {
 
 .pokemon__image {
     position: absolute;
-    bottom: 500;
-    left: 300;
+    bottom: 50%;
+    left: 50%;
+    transform: translate(-44%, 10%);
+    height: 23%;
+}
+
+.pokemon__data {
+    position: absolute;
+    font-weight: 600;
+    color: #aaa;
+    top: 64.5%;
+    right: 18%;
+}
+
+.pokemon__name {
+    color: #3a444d;
+    text-transform: capitalize;
 }
