@@ -27,6 +27,6 @@ main {
 
 .pokemon__image {
     position: absolute;
-    bottom: 400;
-    left: 200;
+    bottom: 500;
+    left: 300;
 }
