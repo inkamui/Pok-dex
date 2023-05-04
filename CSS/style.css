@@ -38,7 +38,7 @@ main {
     font-weight: 600;
     color: #aaa;
     top: 65%;
-    right: 25%;
+    right: 20%;
     font-size: clamp(8px, 5vw, 25px);
 }
 
